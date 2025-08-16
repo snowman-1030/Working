@@ -2,7 +2,7 @@
 
 # Start and end dates
 start_date="2018-01-01"
-end_date="2025-08-15"
+end_date="2018-03-20"
 
 current_date="$start_date"
 
